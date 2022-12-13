@@ -6,7 +6,7 @@ x=3
 y="ahmed"
 h="zyad"
 print(y)
-y ="moath"
+y ="moath1"
 print(x) # 3
 print(y)
 print(x,y)
